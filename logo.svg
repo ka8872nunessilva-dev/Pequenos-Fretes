@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 150">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#ffe45a"/><stop offset="1" stop-color="#f5b900"/></linearGradient></defs>
+<path d="M18 68 Q45 24 92 25 L158 25 Q184 27 205 58 L211 66" fill="none" stroke="url(#g)" stroke-width="8" stroke-linecap="round"/>
+<path d="M42 70 L62 45 Q71 36 91 36 L151 36 Q171 37 188 62 L193 70" fill="none" stroke="#fff" stroke-width="3" opacity=".9"/>
+<path d="M20 84 H201" stroke="#f8c51b" stroke-width="4"/>
+<path d="M25 94 H190" stroke="#f8c51b" stroke-width="2" opacity=".7"/>
+<path d="M33 106 H185" stroke="#f8c51b" stroke-width="2" opacity=".45"/>
+<text x="110" y="129" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="14" font-weight="900" letter-spacing="1">FRETES &amp; MUDANÇAS</text>
+</svg>

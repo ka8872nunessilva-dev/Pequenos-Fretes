@@ -1,0 +1,28 @@
+PEQUENOS FRETES & MUDANÇAS — VERSÃO PROFISSIONAL
+
+ARQUIVOS:
+- index.html: textos, serviços e botões.
+- style.css: cores, tamanhos e aparência.
+- script.js: número de WhatsApp e mensagens dos botões.
+- logo.svg: logotipo vetorial que pode ser editado.
+
+COMO TROCAR O TELEFONE:
+1. Abra script.js no Bloco de Notas.
+2. Altere NUMERO_WHATSAPP.
+3. Use 55 + DDD + número, sem espaços, parênteses ou traços.
+4. Salve.
+
+O telefone está preenchido com o número informado anteriormente: 61 99567-6496.
+Confira antes de publicar.
+
+COMO PUBLICAR NA NETLIFY:
+1. Extraia o ZIP.
+2. Entre na sua conta Netlify.
+3. Arraste a pasta pequenos_fretes_profissional para a área de deploy manual.
+4. Aguarde a publicação.
+5. Teste os botões no celular.
+
+IMPORTANTE:
+- Mantenha os quatro arquivos juntos.
+- Os botões Saiba mais e WhatsApp abrem conversa no WhatsApp.
+- A imagem de fundo é carregada de um serviço externo; o site continua funcionando sem ela.
